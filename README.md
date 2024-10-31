@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanreji2004
 - 👀 I’m interested in making websites
-- 🌱 React Devloper
+- 🌱 React Developer
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me alenreji1996@gmail.com
 
